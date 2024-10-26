@@ -10,21 +10,21 @@ require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/google/go-cmp v0.6.0
 	github.com/oklog/run v1.1.0
-	github.com/prometheus/client_golang v1.20.4
+	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/client_model v0.6.1
-	github.com/prometheus/common v0.60.0
+	github.com/prometheus/common v0.60.1
 	github.com/prometheus/exporter-toolkit v0.13.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.9.0
 	gopkg.in/yaml.v3 v3.0.1
-	k8s.io/api v0.31.1
-	k8s.io/apimachinery v0.31.1
-	k8s.io/client-go v0.31.1
-	k8s.io/component-base v0.31.1
+	k8s.io/api v0.31.2
+	k8s.io/apimachinery v0.31.2
+	k8s.io/client-go v0.31.2
+	k8s.io/component-base v0.31.2
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/sample-controller v0.31.1
+	k8s.io/sample-controller v0.31.2
 	k8s.io/utils v0.0.0-20240821151609-f90d01438635
 )
 
